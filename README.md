@@ -1,5 +1,3 @@
-# RESOURCE                : https://github.com/baeharam
-
 1. axios:
           [Features]    - Make XMLHttpRequests from the browser
                         - Make http requests from node.js
@@ -125,3 +123,4 @@
 26. react-flipcard:
           [Features]    - React Card Flip is allows you to use the card flipping animation.
 
+# RESOURCE                : https://github.com/baeharam
